@@ -1,3 +1,3 @@
 # Gradient_descent
 
-Self-written Gradient descent Algorith
+Self-written Gradient descent Algorithm
